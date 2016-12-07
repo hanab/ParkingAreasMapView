@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingAreasMapView/ParkingViewController.swift"
+            timestampString = "502555857.235643"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.__deallocating_deinit"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502555858.974184"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ParkingAreasMapView.ParkingViewController"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502555858.980545"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ParkingAreasMapView.ParkingViewController"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502555858.984495"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ParkingAreasMapView.ParkingViewController&gt;"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502555858.987409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ParkingAreasMapView.ParkingViewController&gt;"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502555858.989463"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingAreasMapView/ParkingViewController.swift"
+            timestampString = "502571796.940432"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ParkingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.__deallocating_deinit"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502572992.57258"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ParkingAreasMapView.ParkingViewController"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502572992.574952"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; ParkingAreasMapView.ParkingViewController"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502572992.577195"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ParkingAreasMapView.ParkingViewController&gt;"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502572992.580168"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParkingAreasMapView.ParkingViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;ParkingAreasMapView.ParkingViewController&gt;"
+                  moduleName = "ParkingAreasMapView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hanademas/Desktop/ParkingAreasMapView/ParkingAreasMapView/ParkingViewController.swift"
+                  timestampString = "502572992.582768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingAreasMapView/ParkingViewController.swift"
+            timestampString = "502773452.299012"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "addBoundary(mapRe:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingAreasMapView/ParkingViewController.swift"
+            timestampString = "502773452.299012"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "mapView(_:annotationView:calloutAccessoryControlTapped:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingAreasMapView/ParkingViewController.swift"
+            timestampString = "502773452.299012"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
+            landmarkName = "mapView(_:annotationView:calloutAccessoryControlTapped:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParkingAreasMapViewTests/ParkingAreasMapViewTests.swift"
+            timestampString = "502773569.293946"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testNumberOfZones()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
