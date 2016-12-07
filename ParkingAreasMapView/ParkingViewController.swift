@@ -31,9 +31,10 @@ class ParkingViewController: UIViewController, MKMapViewDelegate {
         mapRegion = MapRegion(JSON: JSON)
         //set region
         let latDelta = mapRegion.eastBoundary - mapRegion.westBoundary
+        let longDelta = mapRegion.northBoundry - mapRegion.southBoundary
         print(mapRegion.eastBoundary)
         print(latDelta)
-        let span = MKCoordinateSpanMake(fabs(latDelta), 0.0)
+        let span = MKCoordinateSpanMake(fabs(latDelta), fabs(longDelta))
         let region = MKCoordinateRegionMake(mapRegion.midCoordinate, span)
         mapView.region = region
         //add overrelys
