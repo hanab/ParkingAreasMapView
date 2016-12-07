@@ -167,9 +167,9 @@ class ParkingViewController: UIViewController, MKMapViewDelegate {
         // label to display service price
         let priceLabel: UILabel! = UILabel(frame: CGRect(origin: CGPoint(x: 20 ,y :25), size: CGSize(width: 60, height: 10)) )
         priceLabel.tag = 7
-         priceLabel.backgroundColor = UIColor.clear
-         priceLabel.textColor = UIColor.black
-         priceLabel.font = UIFont(name: "HelveticaNeue-Bold", size: 12)
+        priceLabel.backgroundColor = UIColor.clear
+        priceLabel.textColor = UIColor.black
+        priceLabel.font = UIFont(name: "HelveticaNeue-Bold", size: 12)
         priceLabel.textAlignment = NSTextAlignment.center
         //add views to the container view
         annView.addSubview(annImageView)
@@ -201,9 +201,9 @@ class ParkingViewController: UIViewController, MKMapViewDelegate {
             message = message1 + message2
         }
         //show alert view for the detail of the zone
-        let ac = UIAlertController(title: title, message: message, preferredStyle: .alert)
-        ac.addAction(UIAlertAction(title: "OK", style: .default))
-        present(ac, animated: true)
+        let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
+        alertController.addAction(UIAlertAction(title: "OK", style: .default))
+        present(alertController, animated: true)
     }
 }
 
