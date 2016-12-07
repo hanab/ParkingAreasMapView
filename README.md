@@ -9,11 +9,10 @@ pin is clicked it shows the name and country of the zone, and pressing the detai
 
 ## FrameWorkes Used
 
-### MKMapkit
- *MKMapKit
+### Mapkit
+
  
- 
- ### XCTest
+### XCTest
 
 XCTest class was used to write small unit tests for some of the functions in the project.
 
