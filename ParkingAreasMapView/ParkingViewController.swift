@@ -157,10 +157,10 @@ class ParkingViewController: UIViewController, MKMapViewDelegate {
         //make a costum annotation with an imageview and a lable to desplay price
         
         //container view
-        let annView = UIView(frame: CGRect(origin: CGPoint(x: 0,y :0), size: CGSize(width: 70, height: 212)))
+        let annView = UIView(frame: CGRect(origin: CGPoint(x: 0,y :0), size: CGSize(width: 100, height: 212)))
         annView.backgroundColor = UIColor.clear
         //view dequed
-        anViewNew = MKAnnotationView(frame: CGRect(origin: CGPoint(x: 0,y :0), size: CGSize(width: 70, height: 212)))
+        anViewNew = MKAnnotationView(frame: CGRect(origin: CGPoint(x: 0,y :0), size: CGSize(width: 100, height: 212)))
         //map pin image view
         let annImageView =  UIImageView(frame: CGRect(origin: CGPoint(x: 0,y :0), size: CGSize(width: 100, height: 100)))
         annImageView.image = UIImage(named:"locationIcon.png")
